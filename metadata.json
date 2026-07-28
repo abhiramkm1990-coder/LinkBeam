@@ -1,0 +1,6 @@
+{
+  "name": "LinkBeam",
+  "description": "Instant cross-device peer-to-peer file, link, and text sharing without accounts or installs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
